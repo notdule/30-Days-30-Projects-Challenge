@@ -1,0 +1,4 @@
+D:\Code\Shape Area\obj\Debug\net8.0\Shape Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Shape Area\obj\Debug\net8.0\Shape Area.AssemblyInfoInputs.cache
+D:\Code\Shape Area\obj\Debug\net8.0\Shape Area.AssemblyInfo.cs
+D:\Code\Shape Area\obj\Debug\net8.0\Shape Area.csproj.CoreCompileInputs.cache
