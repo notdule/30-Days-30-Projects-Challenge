@@ -10,12 +10,18 @@ Finishing Date (Expected):
 
 Day 1:
 Project Name - Shape Area Calculator
-What Problem it solves - It helps you calculate the area of certian shapes (*it's currently just rectangle and circle, code update/expansion coming soon*)
+What Problem does it solve - It helps you calculate the area of certian shapes (*it's currently just rectangle and circle, code update/expansion coming soon*)
 How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
 
 Day 2:
 Project Name - To Do List 
-What Problem it solves - A simple to do list where you can Add, remove & view tasks you wrote!
+What Problem does it solve - A simple to do list where you can Add, remove & view tasks you wrote!
+How i'll integrate that solution in code - *will add*
+Short explanation of how my code works: *will add*
+
+Day 3:
+Project Name - Turn Based Combat Game 
+What Problem does it solve/where could you use it - *will add*
 How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
