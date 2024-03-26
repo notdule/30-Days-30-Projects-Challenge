@@ -1,0 +1,14 @@
+D:\Code\Turn Based Battle System\bin\Debug\net8.0\Turn Based Battle System.exe
+D:\Code\Turn Based Battle System\bin\Debug\net8.0\Turn Based Battle System.deps.json
+D:\Code\Turn Based Battle System\bin\Debug\net8.0\Turn Based Battle System.runtimeconfig.json
+D:\Code\Turn Based Battle System\bin\Debug\net8.0\Turn Based Battle System.dll
+D:\Code\Turn Based Battle System\bin\Debug\net8.0\Turn Based Battle System.pdb
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.AssemblyInfoInputs.cache
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.AssemblyInfo.cs
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.csproj.CoreCompileInputs.cache
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.dll
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\refint\Turn Based Battle System.dll
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.pdb
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\Turn Based Battle System.genruntimeconfig.cache
+D:\Code\Turn Based Battle System\obj\Debug\net8.0\ref\Turn Based Battle System.dll
