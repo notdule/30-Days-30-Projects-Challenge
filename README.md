@@ -31,3 +31,21 @@ Project Name - Tic Tac Toe
 What Problem does it solve/where could you use it - *will add*
 How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
+
+Day 5:
+Project Name - Currency & Temperature Converter
+What Problem does it solve/where could you use it - *will add*
+How i'll integrate that solution in code - *will add*
+Short explanation of how my code works: *will add*
+
+Day 6:
+Project Name - Turn Based Battle System 
+What Problem does it solve/where could you use it - *will add*
+How i'll integrate that solution in code - *will add*
+Short explanation of how my code works: *will add*
+
+Day 7:
+Project Name - Quiz Game 
+What Problem does it solve/where could you use it - *will add*
+How i'll integrate that solution in code - *will add*
+Short explanation of how my code works: *will add*
