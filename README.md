@@ -115,3 +115,9 @@ Project Name - is Number Amicable or not
 What Problem does it solve/where could you use it - *will add*
 How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
+
+Day 19:
+Project Name - Digital Clock
+What Problem does it solve/where could you use it - *will add*
+How i'll integrate that solution in code - *will add*
+Short explanation of how my code works: *will add*
