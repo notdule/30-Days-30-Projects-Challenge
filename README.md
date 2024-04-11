@@ -133,3 +133,9 @@ Project Name - Create a Directory
 What Problem does it solve/where could you use it - *will add*
 How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
+
+Day 22:
+Project Name - Tower of Hanoi
+What Problem does it solve/where could you use it - *will add*
+How i'll integrate that solution in code - *will add*
+Short explanation of how my code works: *will add*
