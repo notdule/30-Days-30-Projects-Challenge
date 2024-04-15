@@ -159,7 +159,7 @@ How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
 
 Day 26:
-Project Name - 
+Project Name - 2D Array to 1D Array
 What Problem does it solve/where could you use it - *will add*
 How i'll integrate that solution in code - *will add*
 Short explanation of how my code works: *will add*
